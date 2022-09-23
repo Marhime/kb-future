@@ -76,8 +76,8 @@ function Nav() {
           Menu
         </a>
       </div>
-      <div className="hidden lg:block fixed bottom-0 left-0 right-0 w-full h-[5vh] bg-primary z-50">
-        <div className="text-sm w-11/12 lg:w-10/12 | lg:w-container mx-auto flex items-center justify-center h-full text-secondary space-x-5">
+      <div className="hidden xl:block fixed bottom-0 left-0 right-0 w-full h-[5vh] bg-primary z-50">
+        <div className="text-sm w-11/12 | mx-auto flex items-center justify-center h-full text-secondary space-x-5">
           <a
             href="https://www.cslb.ca.gov/onlineservices/checklicenseII/LicenseDetail.aspx?LicNum=1066105"
             className="flex items-center"
