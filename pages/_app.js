@@ -4,10 +4,14 @@ import "swiper/css/effect-fade";
 
 import "../styles/globals.css";
 import MessengerCustomerChat from "react-messenger-customer-chat/lib/MessengerCustomerChat";
+import Head from "next/head";
 
 function MyApp({ Component, pageProps }) {
   return (
     <>
+      <Head>
+        <meta name="theme-color" content="#354432" />
+      </Head>
       <Nav />
       <Component {...pageProps} />
       <MessengerCustomerChat
