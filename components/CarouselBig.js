@@ -16,7 +16,7 @@ const CarouselBig = () => {
     >
       <SwiperSlide>
         <div
-          className="px-2 lg:px-5 block w-full relative delay-100 | loco--fade-y is-inview"
+          className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
           <a
@@ -32,7 +32,7 @@ const CarouselBig = () => {
             <div className="flex items-center justify-start">
               <div className="w-auto">
                 <h2
-                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3-5xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
+                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
 mr-3 "
                 >
                   Pool in the backyard
@@ -74,7 +74,7 @@ mr-3 "
       </SwiperSlide>
       <SwiperSlide>
         <div
-          className="px-2 lg:px-5 block w-full relative delay-100 | loco--fade-y is-inview"
+          className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
           <a
@@ -90,7 +90,7 @@ mr-3 "
             <div className="flex items-center justify-start">
               <div className="w-auto">
                 <h2
-                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3-5xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
+                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
 mr-3 "
                 >
                   Frontyard all inclusive
@@ -132,7 +132,7 @@ mr-3 "
       </SwiperSlide>
       <SwiperSlide>
         <div
-          className="px-2 lg:px-5 block w-full relative delay-100 | loco--fade-y is-inview"
+          className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
           <a
@@ -148,7 +148,7 @@ mr-3 "
             <div className="flex items-center justify-start">
               <div className="w-auto">
                 <h2
-                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3-5xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
+                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
 mr-3 "
                 >
                   Veranda ultimate number two
@@ -190,7 +190,7 @@ mr-3 "
       </SwiperSlide>
       <SwiperSlide>
         <div
-          className="px-2 lg:px-5 block w-full relative delay-100 | loco--fade-y is-inview"
+          className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
           <a
@@ -206,7 +206,7 @@ mr-3 "
             <div className="flex items-center justify-start">
               <div className="w-auto">
                 <h2
-                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3-5xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
+                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
 mr-3 "
                 >
                   The Alan Turing Institute
@@ -248,7 +248,7 @@ mr-3 "
       </SwiperSlide>
       <SwiperSlide>
         <div
-          className="px-2 lg:px-5 block w-full relative delay-100 | loco--fade-y is-inview"
+          className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
           <a
@@ -264,7 +264,7 @@ mr-3 "
             <div className="flex items-center justify-start">
               <div className="w-auto">
                 <h2
-                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3-5xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
+                  className="font-sans-primary text-3xl | sm:text-3xl | md:text-3xl | 2xl:text-4xl text-primary font-normal leading-tighter | md:leading-none tracking-tight
 mr-3 "
                 >
                   The Alan Turing Institute

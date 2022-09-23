@@ -71,6 +71,21 @@ function VideoHome() {
               </div>
             )}
           </SwiperSlide>
+          {/* <SwiperSlide className="pointer-events-none">
+            {({ isActive }) => (
+              <div
+                className={`w-full h-full absolute inset-0 transition duration-300 ease-in-out ${
+                  isActive ? "opacity-100 scale-100" : "opacity-0 scale-105"
+                }`}
+              >
+                <img
+                  src="/images/poool.avif"
+                  className={`absolute inset-0 w-full h-full object-cover `}
+                />
+                <div className="absolute inset-0 w-full h-full z-10 bg-gradient-to-r from-black opacity-60"></div>
+              </div>
+            )}
+          </SwiperSlide> */}
         </Swiper>
       </div>
       {swiperInstance && (
@@ -124,7 +139,7 @@ function VideoHome() {
                 ></div>
               </div>
             </div>
-            <div
+            {/* <div
               className="cursor-pointer inline-block px-2 lg:px-5 group flex-1 | lg:flex-none lg:w-72 | js-slideshow-heroSlideshow__select"
               onClick={() => setActiswiperInstance.slideTove(3)}
               onMouseEnter={() => swiperInstance.slideTo(3)}
@@ -139,7 +154,7 @@ function VideoHome() {
                   }`}
                 ></div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       )}

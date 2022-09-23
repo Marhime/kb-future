@@ -58,3 +58,7 @@ a {
     width: 100%;
   }
 }
+
+body {
+  margin-bottom: 5vh;
+}

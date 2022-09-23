@@ -39,7 +39,7 @@ export default function Home() {
         </section>
         <section className="w-full bg-white py-12 | md:py-24 | lg:py-32 | 2xl:py-32">
           <div className="w-11/12 lg:w-10/12 | lg:w-container mx-auto">
-            <div className="px-4 lg:flex lg:items-center lg:justify-between">
+            <div className="px-4 lg:flex lg:items-end lg:justify-between">
               <h2 className="text-3xl | md:text-4xl lg:text-5xl 2xl:text-6xl text-primary font-light leading-none tracking-tight loco--lines-fade-y words lines splitting">
                 <span className="font-medium">Creating</span> spaces that
                 <br />
@@ -59,7 +59,7 @@ export default function Home() {
         <section className="w-full py-12 | md:py-24 | lg:py-32 | 2xl:py-32 relative">
           <div className="w-11/12 mx-auto relative z-20">
             <div className="px-4 text-center">
-              <h2 className="font-sans-primary text-3-5xl | sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl text-white font-light leading-tighter md:leading-none tracking-tight">
+              <h2 className="text-3xl | sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl text-white font-light leading-tighter md:leading-none tracking-tight">
                 <span className="font-medium">Why </span> choose
                 <span className="font-medium"> us</span>
               </h2>
