@@ -72,7 +72,7 @@ const HowItWorks = () => {
               <div class="px-2 lg:px-5 w-full flex mb-5 | md:mb-0  ">
                 <a
                   onMouseEnter={() => setActive(0)}
-                  href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
+                  href="#"
                   class="block w-full group"
                 >
                   <div class="w-full mb-3 mt-5">
@@ -116,7 +116,7 @@ const HowItWorks = () => {
               <div class="px-2 lg:px-5 w-full flex mb-5 | md:mb-0 ">
                 <a
                   onMouseEnter={() => setActive(1)}
-                  href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
+                  href="#"
                   class="block w-full group"
                 >
                   <div class="w-full mb-3 mt-5">
@@ -158,7 +158,7 @@ const HowItWorks = () => {
               <div class="px-2 lg:px-5 w-full flex mb-5 | md:mb-0 ">
                 <a
                   onMouseEnter={() => setActive(2)}
-                  href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
+                  href="#"
                   class="block w-full group"
                 >
                   <div class="w-full mb-3 mt-5">
@@ -198,7 +198,7 @@ const HowItWorks = () => {
               <div class="px-2 lg:px-5 w-full flex mb-5 | md:mb-0 ">
                 <a
                   onMouseEnter={() => setActive(3)}
-                  href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
+                  href="#"
                   class="block w-full group"
                 >
                   <div class="w-full mb-3 mt-5">
@@ -242,7 +242,7 @@ const HowItWorks = () => {
               <div class="px-2 lg:px-5 w-full flex mb-5 | md:mb-0 ">
                 <a
                   onMouseEnter={() => setActive(4)}
-                  href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
+                  href="#"
                   class="block w-full group"
                 >
                   <div class="w-full mb-3 mt-5">
@@ -288,10 +288,7 @@ const HowItWorks = () => {
               className="w-full h-full object-cover rounded-xl mt-10"
               src="/images/poool.avif"
             />
-            <a
-              href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
-              class="block w-full group"
-            >
+            <a href="#" class="block w-full group">
               <div class="w-full mb-3 mt-5">
                 <div
                   className={`text-primary border-primary transition py-0.5 px-2 | lg:px-4 lg:text-md inline-flex rounded-full border borde-solid leading-tight tracking-tight loco--fade-y is-inview`}
@@ -330,10 +327,7 @@ const HowItWorks = () => {
               className="w-full h-full object-cover rounded-xl mt-10"
               src="/images/poool.avif"
             />
-            <a
-              href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
-              class="block w-full group"
-            >
+            <a href="#" class="block w-full group">
               <div class="w-full mb-3 mt-5 mt-3">
                 <div
                   className={`text-primary border-primary transition py-0.5 px-2 | lg:px-4 lg:text-md inline-flex rounded-full border borde-solid leading-tight tracking-tight loco--fade-y is-inview`}
@@ -372,10 +366,7 @@ const HowItWorks = () => {
               className="w-full h-full object-cover rounded-xl mt-10"
               src="/images/poool.avif"
             />
-            <a
-              href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
-              class="block w-full group"
-            >
+            <a href="#" class="block w-full group">
               <div class="w-full mb-3 mt-5 mt-3">
                 <div
                   className={`text-primary border-primary transition py-0.5 px-2 | lg:px-4 lg:text-md inline-flex rounded-full border borde-solid leading-tight tracking-tight loco--fade-y is-inview`}
@@ -414,10 +405,7 @@ const HowItWorks = () => {
               className="w-full h-full object-cover rounded-xl mt-10"
               src="/images/poool.avif"
             />
-            <a
-              href="https://area.co.uk/news-knowledge/eureka-moment-coworking"
-              class="block w-full group"
-            >
+            <a href="#" class="block w-full group">
               <div class="w-full mb-3 mt-5 mt-3">
                 <div
                   className={`text-primary border-primary transition py-0.5 px-2 | lg:px-4 lg:text-md inline-flex rounded-full border borde-solid leading-tight tracking-tight loco--fade-y is-inview`}

@@ -19,10 +19,7 @@ const CarouselBig = () => {
           className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
-          <a
-            href="https://area.co.uk/case-studies/the-alan-turing-institute"
-            className="block w-full group pt-3"
-          >
+          <a href="#" className="block w-full group pt-3">
             <div className="w-full aspect-ratio-913 relative rounded-xl overflow-hidden transition transform translate-z-0 mb-5 | lg:mb-10 |  lg:group-hover:-translate-y-2">
               <img
                 src="/images/poool.avif"
@@ -77,10 +74,7 @@ mr-3 "
           className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
-          <a
-            href="https://area.co.uk/case-studies/the-alan-turing-institute"
-            className="block w-full group pt-3"
-          >
+          <a href="#" className="block w-full group pt-3">
             <div className="w-full aspect-ratio-913 relative rounded-xl overflow-hidden transition transform translate-z-0 mb-5 | lg:mb-10 |  lg:group-hover:-translate-y-2">
               <img
                 src="/images/poool.avif"
@@ -135,10 +129,7 @@ mr-3 "
           className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
-          <a
-            href="https://area.co.uk/case-studies/the-alan-turing-institute"
-            className="block w-full group pt-3"
-          >
+          <a href="#" className="block w-full group pt-3">
             <div className="w-full aspect-ratio-913 relative rounded-xl overflow-hidden transition transform translate-z-0 mb-5 | lg:mb-10 |  lg:group-hover:-translate-y-2">
               <img
                 src="/images/poool.avif"
@@ -193,10 +184,7 @@ mr-3 "
           className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
-          <a
-            href="https://area.co.uk/case-studies/the-alan-turing-institute"
-            className="block w-full group pt-3"
-          >
+          <a href="#" className="block w-full group pt-3">
             <div className="w-full aspect-ratio-913 relative rounded-xl overflow-hidden transition transform translate-z-0 mb-5 | lg:mb-10 |  lg:group-hover:-translate-y-2">
               <img
                 src="/images/poool.avif"
@@ -251,10 +239,7 @@ mr-3 "
           className="px-2 block w-full relative delay-100 | loco--fade-y is-inview"
           data-scroll=""
         >
-          <a
-            href="https://area.co.uk/case-studies/the-alan-turing-institute"
-            className="block w-full group pt-3"
-          >
+          <a href="#" className="block w-full group pt-3">
             <div className="w-full aspect-ratio-913 relative rounded-xl overflow-hidden transition transform translate-z-0 mb-5 | lg:mb-10 |  lg:group-hover:-translate-y-2">
               <img
                 src="/images/poool.avif"

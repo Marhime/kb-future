@@ -105,6 +105,25 @@ function Nav() {
             <img className="inline-block w-5 mr-2" src="/phone.svg" />
             1-818-961-7726
           </a>
+          <div className="w-[2px] h-5 bg-secondary"></div>
+          <a
+            href="https://www.facebook.com/KB-Landscaping-Inc-109708124113366"
+            className="mr-5"
+          >
+            <img className="inline-block w-5" src="/facebook.svg" />
+          </a>
+          <a
+            href="https://www.instagram.com/kb_landscapinginc"
+            className="mr-5"
+          >
+            <img className="inline-block w-5" src="/instagram.svg" />
+          </a>
+          <a
+            href="https://www.yelp.com/biz/kb-landscaping-woodland-hills"
+            className="mr-5"
+          >
+            <img className="inline-block w-5" src="/yelp.svg" />
+          </a>
         </div>
       </div>
       <a
