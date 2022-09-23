@@ -102,9 +102,8 @@ export default function Home() {
           <div className="w-11/12 mx-auto relative z-20">
             <div className="px-4 text-center">
               <h2 className="font-sans-primary text-3xl | md:text-4xl lg:text-6xl xl:text-7xl text-white font-light leading-tighter md:leading-none tracking-tight bg-primary rounded-t-xl pt-10 pb-6 lg:pt-16 lg:pb-10">
-                <span className="font-medium">Great </span> projects start with
-                great
-                <span className="font-medium"> relationships</span>
+                Great <span className="font-medium">projects </span> start with
+                great <span className="font-medium">relationships</span>
               </h2>
               <a
                 href="#"
