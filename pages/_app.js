@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
       <Component {...pageProps} />
       <MessengerCustomerChat
         pageId="101662676052669"
-        appId="1239431640242787"
+        appId="797473724785161"
         htmlRef="<REF_STRING>"
       />
     </>
