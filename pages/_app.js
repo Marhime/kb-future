@@ -1,7 +1,22 @@
-import '../styles/globals.css'
+import Nav from "../components/Nav";
+import "swiper/css";
+import "swiper/css/effect-fade";
+
+import "../styles/globals.css";
+import MessengerCustomerChat from "react-messenger-customer-chat/lib/MessengerCustomerChat";
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return (
+    <>
+      <Nav />
+      <Component {...pageProps} />
+      <MessengerCustomerChat
+        pageId="101662676052669"
+        appId="1239431640242787"
+        htmlRef="<REF_STRING>"
+      />
+    </>
+  );
 }
 
-export default MyApp
+export default MyApp;

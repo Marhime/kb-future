@@ -1,9 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Aladin&family=Poppins:wght@400;600;800&display=swap");
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  /* font-family: "Aladin", cursive; */
+  font-family: "Poppins", sans-serif;
+  background-color: #354432;
 }
 
 a {
@@ -14,13 +19,42 @@ a {
 * {
   box-sizing: border-box;
 }
+.swiper {
+  z-index: 20 !important;
+}
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+.swiper-pagination {
+  display: flex !important;
+  align-items: center;
+}
+
+.aspect-ratio-913 {
+  aspect-ratio: 9/13;
+}
+
+.item-fluff {
+  background-color: #000;
+  width: calc(100% / 4);
+  height: 50vh;
+  transition: 0.4s ease-in-out;
+  border-radius: 10px;
+  outline: 1px solid #fff;
+  overflow: hidden;
+}
+
+.item-fluff.active {
+  width: 100%;
+}
+
+.show-progress {
+  animation: grow 3500ms linear forwards;
+}
+
+@keyframes grow {
+  0% {
+    width: 0;
   }
-  body {
-    color: white;
-    background: black;
+  100% {
+    width: 100%;
   }
 }
